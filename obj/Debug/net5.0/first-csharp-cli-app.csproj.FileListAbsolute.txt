@@ -1,0 +1,16 @@
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\first-csharp-cli-app.csproj.AssemblyReference.cache
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\first-csharp-cli-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\first-csharp-cli-app.AssemblyInfoInputs.cache
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\first-csharp-cli-app.AssemblyInfo.cs
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\first-csharp-cli-app.csproj.CoreCompileInputs.cache
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\bin\Debug\net5.0\first-csharp-cli-app.exe
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\bin\Debug\net5.0\first-csharp-cli-app.deps.json
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\bin\Debug\net5.0\first-csharp-cli-app.runtimeconfig.json
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\bin\Debug\net5.0\first-csharp-cli-app.runtimeconfig.dev.json
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\bin\Debug\net5.0\first-csharp-cli-app.dll
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\bin\Debug\net5.0\ref\first-csharp-cli-app.dll
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\bin\Debug\net5.0\first-csharp-cli-app.pdb
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\first-csharp-cli-app.dll
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\ref\first-csharp-cli-app.dll
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\first-csharp-cli-app.pdb
+C:\Users\Tyler\Desktop\Dev\csharp\first-csharp-cli-app\obj\Debug\net5.0\first-csharp-cli-app.genruntimeconfig.cache
